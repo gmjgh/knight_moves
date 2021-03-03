@@ -7,7 +7,7 @@ To run the app you will need:
 * Android Studio Arctic Fox | 2020.3.1 Canary 8 (at least)
 * Android SDK (up to date)
 
-I used `Kotlin`/Coroutines`, `Composable`/`ViewModel` approach without any DI or complicated architectural approaches.
+I used `Kotlin`/`Coroutines`, `Composable`/`ViewModel` approach without any DI or complicated architectural approaches.
 The choice was made based on the project size and complexity.
 There are plenty of stuff that can be improved in this app but the main tasks are achieved.
 The app is focused on the Knight moves solely.
